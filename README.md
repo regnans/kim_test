@@ -1,5 +1,7 @@
 # kim_test
-A test repo for the ADC course on February 27 2024
+
+A test repo for the ADC course on February 27 2024. It was a great class! 
+
 
 ## Purpose
 
