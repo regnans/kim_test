@@ -1,9 +1,9 @@
 # kim_test
-A test repo for the ADC course on Februray 27 2024
+A test repo for the ADC course on February 27 2024
 
 ## Purpose
 
-- Create a remote respository on GitHub
+- Create a remote repository on GitHub
 - Practice git workflow
 
 ## Creator
